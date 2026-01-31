@@ -3,7 +3,7 @@
   padding: 0px;
 }
 body{
-  background:url('../p/bk.jpg');
+  background:url('bk.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
@@ -12,7 +12,7 @@ body{
   body {
     min-height: 100vh;
     background-position: center;
-    background-image: url("../p/bm.jpg");
+    background-image: url("bm.jpg");
   }
 }
 nav{
